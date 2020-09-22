@@ -1,6 +1,6 @@
 //-----------------------------------------------------------
 //  Purpose:    Implementation of BinaryTree class.
-//  Author:     John Gauch
+//  Author:     William Taylor
 //-----------------------------------------------------------
 #include "tree.h"
 #include <stdlib.h>
