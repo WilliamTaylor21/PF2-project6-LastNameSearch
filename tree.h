@@ -1,6 +1,6 @@
 //-----------------------------------------------------------
 //  Purpose:    Header file for the BinaryTree class.
-//  Author:     John Gauch
+//  Author:     William Taylor
 //-----------------------------------------------------------
 
 #include <iostream>
